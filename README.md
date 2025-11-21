@@ -1,1 +1,2 @@
 # githomework
+- today is friday!!!
