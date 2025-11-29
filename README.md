@@ -2,5 +2,7 @@
 - Today is Monday!!!
 - Today is Tuesday!!!
 - Today is Wednesday!!!
-- Today is thursday
+- Today is Thursday
+- Today is Friday!!!
+- Today is SAturday!!!
 
