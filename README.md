@@ -1,4 +1,4 @@
 # githomework
-- today is friday!!!
-- Today is Saturday!!!
-- Today is Sunday
+- Today is Monday!!!
+- Today is Tuesday!!!
+
